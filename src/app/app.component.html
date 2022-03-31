@@ -1,0 +1,15 @@
+
+
+
+  <nb-layout-column>
+    <button nbButton class="btn btn-outline-primary" (click)="details()">Find Doctors</button>
+    <button nbButton class="btn btn-outline-primary" style="margin-left:1rem;"(click)="head()" >Video Consult</button>
+    <button nbButton class="btn btn-outline-primary" style="margin-left:1rem;" >Medicines</button>
+    <button nbButton class="btn btn-outline-primary" style="margin-left:1rem;" >Lab Test</button>
+    <button nbButton class="btn btn-outline-primary" style="margin-left:1rem;" >Surgeries</button>
+  </nb-layout-column>
+  <nb-layout-column class="login-btn">
+    <button nbButton class="btn btn-primary" style="margin-left:1rem;"  outline status="primary" (click)="login()">Login/SignUp</button>
+  </nb-layout-column>
+
+<router-outlet></router-outlet>

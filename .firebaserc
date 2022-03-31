@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ourproject-b5054"
+  },
+  "targets": {
+    "ourproject-b5054": {
+      "hosting": {
+        "yogeshpsp": [
+          "ourproject-b5054"
+        ]
+      }
+    }
+  }
+}

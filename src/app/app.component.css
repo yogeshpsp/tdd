@@ -1,0 +1,35 @@
+.header-img{
+    height: 75px;
+}
+::ng-deep .nb-theme-default [nbButton].appearance-filled.status-basic, .nb-theme-default .appearance-filled.status-basic[nbButtonToggle]{
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+.login-btn{
+    
+    width: 0%;
+}
+.card-layout{
+    width: 260px;
+    height: 352px;
+}
+.header-align{
+    text-align: center !important;
+}
+.card-img{
+    border-radius: 50%;;
+    width: 100px;
+    height: 100px;
+}
+.layout-background-color{
+    background-image: url("https://image.freepik.com/free-photo/young-business-woman-pointing-finger-side-isolated-grey-wall_231208-230.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-layout-third{
+    width:200px;
+}
+.caro-width{
+    width: 186px !important;
+}
